@@ -4,7 +4,7 @@
   "version" : "1.0",
   "description" : "Create cascading select lists in your tabular forms. You can download on the demo site.",
   "keywords" : ["cascading select"],
-  "homepage" : "https://apex.oracle.com/pls/apex/f?p=SMART4SOLUTIONS:230:::NO:::",
+  "homepage" : "https://github.com/smart4solutions/apex_tabular_form_cascading_lov",
   "bugs" : {
     "url" : "https://github.com/smart4solutions/apex_tabular_form_cascading_lov/issues",
     "email" : "r.martens@smart4solutions.nl"
